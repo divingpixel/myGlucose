@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">myGlucose</string>
+    <string name="unit_mmol">mmol/L</string>
+    <string name="unit_mg">mg/dL</string>
+    <string name="average">Your average is %1$s %2$s</string>
+    <string name="add">Add measurement:</string>
+    <string name="save">Save</string>
+    <string name="history">History</string>
+    <string name="date">Date and time</string>
+    <string name="measurement">Value</string>
+    <string name="input_error">Value should be greater than 0</string>
+</resources>
